@@ -13,8 +13,10 @@
 //Замена 2 на =>
 
 int [] array = {11,211,31,41,15,61,17,18,19};
-array[0] = 605;
-Console.WriteLine(array[0]);
+
+// array[0] = 605;
+// Console.WriteLine(array[0]);
+// Задаем значение итого эл.массива и его Вывод(для наглядного примера)
 
 // int max = a1;
 // if (b1 > max) max = b1;
